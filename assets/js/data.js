@@ -13,4 +13,11 @@ const projects = [
     stack: ["Next JS", "Tailwind", "Mongo DB", "TypeScript"],
     projectLink: "https://github.com/razdacoder/airbnb-clone",
   },
+  {
+    name: "Personal Portfolio",
+    category: "Web Development",
+    imgUrl: "./assets/images/project-portfolio.png",
+    stack: ["HTML", "CSS", "JS"],
+    projectLink: "https://github.com/razdacoder/portfolio",
+  },
 ];
